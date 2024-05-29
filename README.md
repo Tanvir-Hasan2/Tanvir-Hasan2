@@ -4,7 +4,7 @@
 </h1>
 <h2 align="center">A passionate Flutter Developer</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-hasan2&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-hasan2" /> </p>
-- 🌱 I’m currently learning **Flutter,Firebase,Golang,gRPC,Python**
+- 🌱 I’m currently learning **Flutter, Firebase, Golang, gRPC, Python**
 
 <div align="center"> 
   <a href="mailto:tanvir8661@gmail.com">
