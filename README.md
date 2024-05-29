@@ -17,9 +17,9 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tanvir-hasan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sifat26" height="30" width="40" /></a>
-<a href="https://fb.com/T.H.Shamim2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sifat.7847" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shamim_mbstu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sifat26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanvir-hasan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-hasan2" height="30" width="40" /></a>
+<a href="https://fb.com/T.H.Shamim2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="T.H.Shamim2018" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shamim_mbstu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shamim_mbstu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
