@@ -38,6 +38,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvir-hasan2&show_icons=true&locale=en&layout=compact" alt="tanvir-hasan2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvir-hasan2&show_icons=true&locale=en" alt="tanvir-hasan2" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tanvir-hasan2&show_icons=true&locale=en" alt="tanvir-hasan2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan2&" alt="tanvir-hasan2" /></p>
