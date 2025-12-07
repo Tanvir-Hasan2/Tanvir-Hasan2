@@ -1,4 +1,4 @@
-<img width="100%"  src="[![Navy-Blue-Geometric-Technology-Linked-In-Banner-(1).png](https://i.postimg.cc/15FY1nGG/Navy-Blue-Geometric-Technology-Linked-In-Banner-(1).png)](https://postimg.cc/kBnyx5hG)" />
+<img width="100%"  src="https://postimg.cc/kBnyx5hG" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvir-hasan2&label=Profile%20views&color=0e75b6&style=flat" alt="tanvir-hasan2" /> </p>
 
