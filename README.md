@@ -67,17 +67,57 @@
 
 ---
 
-<!-- ===================== GITHUB STATS (THEME FRIENDLY) ===================== -->
+<!-- ===================== GITHUB STATS ===================== -->
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-hasan2&show_icons=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hasan2&layout=compact&theme=transparent" height="165"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=tanvir-hasan2&show_icons=true&rank_icon=github&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=tanvir-hasan2&show_icons=true&rank_icon=github&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=tanvir-hasan2&show_icons=true&rank_icon=github"
+      height="165"
+    />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hasan2&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hasan2&layout=compact&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hasan2&layout=compact"
+      height="165"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan2&theme=transparent"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan2&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan2&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-hasan2"
+    />
+  </picture>
 </p>
+
 
 ---
 
